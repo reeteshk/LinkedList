@@ -17,6 +17,31 @@
 
 </table>
 
+<h2> Problems on Single Linked List </h2>
+
+<table>
+   <tr>
+   <td > Add Two Numbers in LinkedList </td>
+    <td> <a href="https://github.com/reeteshk/LinkedList/blob/main/Problems%20in%20Single%20Linked%20List/Add%20Two%20Numbers%20In%20linked%20List.java"> Add Two Numbers in LinkedList </a></td>
+  </tr>
+   <tr>
+   <td > Odd and Even Linked List</td>
+    <td> <a href="https://github.com/reeteshk/LinkedList/blob/main/Problems%20in%20Single%20Linked%20List/Odd%20and%20Even%20Linked%20List.java"> Odd and Even Linked List</a></td>
+  </tr>
+   <tr>
+   <td > Remove Nth node from the end of Linked List </td>
+    <td> <a href="https://github.com/reeteshk/LinkedList/blob/main/Problems%20in%20Single%20Linked%20List/Remove%20Nth%20node%20from%20the%20end%20of%20List.java"> Remove Nth node from the end of Linked List </a></td>
+  </tr>
+  <tr>
+   <td > Reverse Linked List </td>
+    <td> <a href="https://github.com/reeteshk/LinkedList/blob/main/Problems%20in%20Single%20Linked%20List/Reverse%20the%20Linked%20List.java"> Reverse Linked List  </a></td>
+  </tr>
+  <tr>
+   <td >Sort 0'1 1's 2's in Linked List</td>
+    <td> <a href="https://github.com/reeteshk/LinkedList/blob/main/Problems%20in%20Single%20Linked%20List/Sort%200's%201's%202's%20in%20Linked%20List.java"> Sort 0'1 1's 2's in Linked List</a></td>
+  </tr>
+   </table>
+
 <h2> Slow and Fast Pointer</h2>
 
 <table>

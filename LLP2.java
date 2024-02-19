@@ -66,7 +66,7 @@ public class LLP2{
 
     public static Node removeTail(Node head)
     {
-        Node dummy = head;
+        Node dummy2 = head;
         if(head == null || head.next ==  null)
         {
             return null;
@@ -76,6 +76,6 @@ public class LLP2{
             head = head.next;
         }
         head.next = null;
-        return dummy;
+        return dummy2;
     }
 }
